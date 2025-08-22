@@ -1,6 +1,6 @@
 # Function to find factors using while loop
 def find_factors(n):
-    i = 1  # Start from 1
+    i = 1  # Start from 1# This is a comment
     print(f"Factors of {n}:")
     while i <= n:
         if n % i == 0:  # Check if 'i' is a factor
@@ -9,4 +9,5 @@ def find_factors(n):
 
 # Input from user
 num = int(input("Enter an integer: "))
+
 find_factors(num)
