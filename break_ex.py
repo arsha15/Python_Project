@@ -7,4 +7,5 @@ def given_number(input_number):
         if my_sum > 20:
             break
 
-given_number(18)
+given_number(18)# This is a comment
+
