@@ -1,5 +1,5 @@
 list_01 = [1,2,3,4]
-
+#This is a comment in python
 list_02 = ["Arvind","Shikha","Yuvraj","Ananya"]
 
 
